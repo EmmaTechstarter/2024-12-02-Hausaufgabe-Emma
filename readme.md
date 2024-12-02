@@ -9,4 +9,4 @@ Hier werden sämtliche Wissen und Fakten über Git gesammelt.
 
 > [atlassian](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
 
-> [datacamp] (https://www.datacamp.com/de/tutorial/git-push-pull)
+> [datacamp](https://www.datacamp.com/de/tutorial/git-push-pull)
